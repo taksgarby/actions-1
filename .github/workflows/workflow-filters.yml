@@ -5,8 +5,8 @@ on:
 #  schedule:
 #    - cron: "*/59 * * * *"
   push: 
-# 2 filters - branches-ignore and branches. cannot use both of them     
-    #branches-ignore:
+# 2 filters - branches-ignore and branches. cannot use both of them ff     
+    #branches-ignore
     #    - feature/*
     #    - test/**
     branches:
