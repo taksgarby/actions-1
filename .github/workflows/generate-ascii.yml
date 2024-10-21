@@ -2,7 +2,7 @@
 name: Generate ASCII Artwork
 
 on: 
-    pull_request
+    status
 
 jobs: 
     build_job_1: 
